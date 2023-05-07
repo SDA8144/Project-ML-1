@@ -1,0 +1,22 @@
+Project_Machine Learning_1:-
+
+1) Problem Statement:-
+              Forcasting insurance policy that will lapse
+
+2) Data Gathering Status :- Done
+
+3) Feature Details:-
+        a) ID :- Inique ID for the policy
+        b) perc_premium_paid_by_cash_credit :- Percentage of premium paid by case or credit card
+        c) age_in_days :- Age in days of policy holder
+        d) Income :- Monthly incom of policy holder
+        e) Count_3-6_months_late :- No. of premium late by 3 to 6 month
+        f) Count_6-12_months_late :- No. of premimum late by 6 to 12 month
+        g) Count_more_than_12_months_late :- No. of prmium late by more thane 12 month
+        h) application_underwritting_score :- Under writting score of the applicant at the time of application (No appliction under the score of 90 are in sured)
+        i) no_of_premiums_paid :- Totla number of premium paid on time till now
+        j) sourcing_channel :- Sourcing channel of application
+        k) residence_area_type :- Area type of residance (urban / rural)
+        l) target :- Pemium paid on time 0 , Othewise 1
+
+4) EDA / DQ Check :- 
